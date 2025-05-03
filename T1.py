@@ -83,5 +83,4 @@ for _ in range(partidos_a_jugar):
         equipo2.partidosGanados += 1
         equipo1.partidosPerdidos += 1
 
-# Mostrar el resultado final
 equipo1.mostrar_resultado(equipo2)
